@@ -109,24 +109,24 @@ export const serviceProvider = [
 
 export const carWashData = [
     {
-        title:"Standard Wash",
-        time:"30 Min",
-        price:"AED 59"
+        "title":"Standard Wash",
+        "time":"30 Min",
+        "price":"AED 59"
     },
     {
-        title:"Premium Wash",
-        time:"30 Min",
-        price:"AED 59"
+        "title":"Premium Wash",
+        "time":"30 Min",
+        "price":"AED 59"
     },
     {
-        title:"Standard Wash",
-        time:"30 Min",
-        price:"AED 59"
+        "title":"Standard Wash",
+        "time":"30 Min",
+        "price":"AED 59"
     },
     {
-        title:"Platinum Wash",
-        time:"30 Min",
-        price:"AED 59"
+        "title":"Platinum Wash",
+        "time":"30 Min",
+        "price":"AED 59"
     },
     
 ]
